@@ -1,0 +1,3 @@
+﻿  Gameplay.cpp
+C:\Users\duong\Desktop\HK2\Programming Techniques\Lab Project\Poker Game\Poker Game\Gameplay.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Poker Game.vcxproj -> C:\Users\duong\Desktop\HK2\Programming Techniques\Lab Project\Poker Game\Debug\Poker Game.exe
